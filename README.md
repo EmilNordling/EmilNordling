@@ -2,6 +2,8 @@
 
 Currently working as front dev @ [Visiba Care](https://www.visibacare.com)
 
+![Metrics](https://metrics.lecoq.io/EmilNordling?template=classic&base.community=0&base.repositories=0&languages=1&stars=1&stars.limit=4&config.timezone=Europe%2FBudapest)
+
 <!--
 **EmilNordling/EmilNordling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
